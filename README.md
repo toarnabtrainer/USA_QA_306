@@ -1,6 +1,5 @@
 # USA_QA_306
 
-
 <hr>
 
 ## Chapter-1 - Project Management Resources:
@@ -80,6 +79,9 @@ https://www.youtube.com/watch?v=qz0aGYrrlhU
 **User Registration Form Design Using HTML:**<br>
 https://www.tutorialstonight.com/online-html-editor?p=html&q=registration-form-in-html-2
 
+**The Biggest and Best Library of Open-Source Web Components:** <br>
+https://fontawesome.com/search
+
 <hr>
 
 ## Chapter-5 - Selenium Resources:
@@ -101,6 +103,10 @@ https://drive.google.com/drive/folders/19kPZUBzevRacCTadz-3O40waZFm_rqsU?usp=sha
 * Download and install Anaconda and check Jupyter Lab is working fine in the Anaconda by running some sample Python codes
 * Login your class from your system (Desktop/Laptop) and not from your mobile
 
+**Error Fixing Steps for Mac OS:** <br>
+* https://timonweb.com/misc/fixing-error-chromedriver-cannot-be-opened-because-the-developer-cannot-be-verified-unable-to-launch-the-chrome-browser-on-mac-os/
+* https://stackoverflow.com/questions/60362018/macos-catalinav-10-15-3-error-chromedriver-cannot-be-opened-because-the-de
+
 <hr>
 
 ## Chapter-6 - UML and www.draw.io Resources:
@@ -116,6 +122,9 @@ https://www.drawio.com/blog/diagrams-offline
 
 **YouTube UML Tutorial Link:**<br>
 https://www.youtube.com/watch?v=gUEizau0-UQ&list=PLWPirh4EWFpF9Gbnu4_DdF4ITHSN6MSsk
+
+**UML Text Tutorial Link:**<br>
+https://www.geeksforgeeks.org/unified-modeling-language-uml-introduction/
 
 **UML Project Diagram Samples:**<br>
 https://in.pinterest.com/meeraacademy/project-uml-diagram/
@@ -1063,3 +1072,8 @@ Frozen sets are useful in situations where you need a set that cannot be modifie
 
 <hr>
 
+## Towards Growth and Towards Success
+
+![image](https://github.com/user-attachments/assets/078e5be0-8bfb-457b-8864-4c9fc4fcedf9)
+
+<hr>
